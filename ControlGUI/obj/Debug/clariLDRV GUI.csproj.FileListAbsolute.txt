@@ -1,0 +1,114 @@
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\bin\Debug\Colourful.dll
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\bin\Debug\FTD2XX_NET.dll
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\bin\Debug\Colourful.xml
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\bin\Debug\FTD2XX_NET.xml
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\obj\Debug\clariLDRV GUI.csprojAssemblyReference.cache
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.GenerateResource.cache
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CoreCompileInputs.cache
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CopyComplete
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\obj\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\clariLDRV GUI\ControlGUI\bin\Debug\iDiTect.Excel.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\bin\Debug\Colourful.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\bin\Debug\FTD2XX_NET.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\bin\Debug\iDiTect.Excel.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\bin\Debug\Colourful.xml
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\bin\Debug\FTD2XX_NET.xml
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.GenerateResource.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CoreCompileInputs.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CopyComplete
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csprojAssemblyReference.cache
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\bin\Debug\Colourful.dll
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\bin\Debug\Colourful.xml
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\bin\Debug\FTD2XX_NET.xml
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csprojAssemblyReference.cache
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.GenerateResource.cache
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CopyComplete
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Visual_Studio_Projects\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\bin\Debug\Colourful.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\bin\Debug\Colourful.xml
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\bin\Debug\FTD2XX_NET.xml
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csprojAssemblyReference.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.GenerateResource.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CoreCompileInputs.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CopyComplete
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_05\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\bin\Debug\Colourful.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\bin\Debug\Colourful.xml
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\bin\Debug\FTD2XX_NET.xml
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csprojAssemblyReference.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.GenerateResource.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CoreCompileInputs.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CopyComplete
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\150WIN GUI\ControlGUI\obj\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\bin\Debug\Colourful.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\bin\Debug\FTD2XX_NET.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\bin\Debug\iDiTect.Excel.dll
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\bin\Debug\Colourful.xml
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\bin\Debug\FTD2XX_NET.xml
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\obj\Debug\clariLDRV GUI.csprojAssemblyReference.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\obj\Debug\clariLDRV GUI.csproj.GenerateResource.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CoreCompileInputs.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CopyComplete
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_07\ControlGUI\obj\Debug\ControlGUI.pdb
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\bin\Debug\Colourful.dll
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\bin\Debug\Colourful.xml
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\bin\Debug\FTD2XX_NET.xml
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\obj\Debug\clariLDRV GUI.csprojAssemblyReference.cache
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\obj\Debug\clariLDRV GUI.csproj.GenerateResource.cache
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CoreCompileInputs.cache
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CopyComplete
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\cstuart\Documents\SLD Docs\R&D\Nikon 3D Printer\Software GUI\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\clariLDRV GUI.csproj.GenerateResource.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CoreCompileInputs.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\clariLDRV GUI.csproj.CopyComplete
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.pdb

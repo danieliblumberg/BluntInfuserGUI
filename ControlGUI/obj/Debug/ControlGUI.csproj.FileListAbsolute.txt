@@ -1,0 +1,15 @@
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\obj\Debug\ControlGUI.csprojAssemblyReference.cache
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\obj\Debug\ControlGUI.csproj.GenerateResource.cache
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\obj\Debug\ControlGUI.csproj.CoreCompileInputs.cache
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\bin\Debug\FTD2XX_NET.dll
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\bin\Debug\FTD2XX_NET.xml
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\obj\Debug\ControlGUI.csproj.CopyComplete
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\obj\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\bin\Debug\Colourful.dll
+C:\Users\diblu\Documents\Software\C#\ControlGUI\ControlGUI\bin\Debug\Colourful.xml

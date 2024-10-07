@@ -1,0 +1,10 @@
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.exe.config
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\bin\Debug\ControlGUI.pdb
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.Form1.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.Properties.Resources.resources
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\SLV_LASER_150WIN.csproj.GenerateResource.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\SLV_LASER_150WIN.csproj.CoreCompileInputs.cache
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\SLV_LASER_150WIN.csproj.CopyComplete
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.exe
+C:\Users\diblu\Documents\Software\C#\150WIN GUI_R1_08-20201123T192943Z-001\150WIN GUI_R1_08\ControlGUI\obj\Debug\ControlGUI.pdb
