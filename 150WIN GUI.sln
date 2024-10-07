@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "150WIN GUI", "ControlGUI\150WIN GUI.csproj", "{6593AEFF-F5A3-4DA1-907C-D9B317B714C1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SLD_Laser", "Setup\Setup.vdproj", "{D8B53F30-2ABA-4C45-BBC8-8B8CFF425E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6593AEFF-F5A3-4DA1-907C-D9B317B714C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6593AEFF-F5A3-4DA1-907C-D9B317B714C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6593AEFF-F5A3-4DA1-907C-D9B317B714C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6593AEFF-F5A3-4DA1-907C-D9B317B714C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B53F30-2ABA-4C45-BBC8-8B8CFF425E80}.Debug|Any CPU.ActiveCfg = Debug
+		{D8B53F30-2ABA-4C45-BBC8-8B8CFF425E80}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE026A4-9D43-48F7-8BC3-AC5B6F21BA7C}
+	EndGlobalSection
+EndGlobal
